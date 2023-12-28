@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
             context: context,
             builder: (builder) => AlertDialog(
               title: const Text(
-                'VIBGYOR',
+                'DATA SPOT',
                 style: TextStyle(color: Colors.green),
               ),
               content: SingleChildScrollView(

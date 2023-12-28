@@ -14,7 +14,7 @@ class Constants {
 
 // Color primaryColorLight = Color(0xffb395c9);
 // Color textColor = Color(0xffffffff);
-// String appName = "Nilaav";
+
 
 //000E7A
 }
