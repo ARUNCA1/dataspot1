@@ -27,9 +27,7 @@ class SuperHeroRepo {
    var response = json.decode(data)["Response"];
   var _RScode=200;
     _loadingStatus = LoadingStatus.loading;
-    // var _response = await http.get(Uri.parse('https://protocoderspoint.com/jsondata/superheros.json'));
-    //
-    //
+
     switch (_RScode) {
       case 200:
         {
