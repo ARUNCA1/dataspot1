@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246231100633",
+    "project_id": "dataspot11-3db01",
+    "storage_bucket": "dataspot11-3db01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246231100633:android:f2dde4165965609d1862c8",
+        "android_client_info": {
+          "package_name": "com.example.dataspottest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoZG5jCIJnUliiKMyITYqzZXccaRmuXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
