@@ -1,11 +1,7 @@
 
 import 'package:flutter/cupertino.dart';
-
 import '../models/model.dart';
 import '../repo/repo.dart';
-
-
-
 enum LoadingStatus { idle, loading, loaded }
 
 class SuperHeroProvider with ChangeNotifier {

@@ -3,8 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 import '../custome/button.dart';
 
-//code for designing the UI of our text field where the user writes his email id or password
-
 const kTextFieldDecoration = InputDecoration(
   hintText: 'Enter a value',
   hintStyle: TextStyle(color: Colors.grey),
